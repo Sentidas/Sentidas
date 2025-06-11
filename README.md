@@ -1,25 +1,27 @@
 
-# 👩‍💻 Привет, я Елена
+<h1 align="center">Всем привет, я <a href="https://daniilshat.ru/" target="_blank">Елена</a> </h1>
+<h3 align="center">QA Engineer</h3>
 
-QA Engineer с более чем 4-летним опытом тестирования мобильных приложений, backend-сервисов и API, преимущественно в сфере финтеха. Активно развиваюсь в автоматизации тестирования на Java, создаю автотесты для UI и API.
+ - Тестирую мобильные приложения, backend-сервисы и API, преимущественно в сфере финтеха
+ -  Активно развиваюсь в автоматизации тестирования на Java, создаю автотесты для UI и API
+ - Работаю с бизнес-процессами, участвую в проработке требований и тесно взаимодействую с командами разработки и продукта
 
-Работаю с бизнес-процессами, участвую в проработке требований и тесно взаимодействую с командами разработки и продукта. Имею опыт тест-дизайна, оптимизации регрессов и повышения стабильности релизов
+---
 
-Мои инструменты и технологии:
+# ⚙ Технологии и инструменты
 
-## ⚙ Мои инструменты и технологии
+<a href="https://www.java.com/"><img src="media/logo/Java.svg" width="60" height="60"  alt="Java"/></a>
+<a id ="tech" href="https://www.jetbrains.com/idea/"><img src="media/logo/Idea.svg" width="60" height="60"  alt="IDEA"/></a>
+<a href="https://www.postgresql.org"><img src="icons/postgreSQL.svg" title="PostgreSQL" alt="PostgreSQL" width="50" height="50"/></a>
+<a href="https://www.docker.com"><img src="icons/docker.svg" title="Docker" alt="Docker" width="50" height="50"/></a>
+<a href="https://selenide.org"><img src="icons/selenide.svg" title="Selenide" alt="Selenide" width="50" height="50"/></a>
+<a href="https://www.selenium.dev"><img src="icons/selenuim.svg" title="Selenium" alt="Selenium" width="50" height="50"/></a>
+<a href="https://junit.org/junit5"><img src="icons/junit5.svg" title="JUnit5" alt="JUnit5" width="50" height="50"/></a>
+</a><a href="https://rest-assured.io"><img src="icons/rest_assured.svg" title="REST Assured" alt="REST Assured" width="50" height="50"/></a>
+<a href="https://gradle.org"><img src="icons/gradle.svg" title="Gradle" alt="Gradle" width="50" height="50"/></a>
+<a href="https://developer.android.com/studio"><img src="media/logo/Android-studio.svg" width="50" height="50"  alt="Android Studio"/></a>
+<a href="https://appium.io/"><img src="media/logo/Appium.svg" width="50" height="50"  alt="Appium"/></a>
+<a href="https://www.jenkins.io"><img src="icons/jenkins.svg" title="Jenkins" alt="Jenkins" width="50" height="50"/></a>
+<a href="https://www.atlassian.com/software/jira"><img src="icons/jira.svg" title="Jira" alt="Jira" width="50" height="50"/></a>
+<a href="https://qameta.io/allure-report"><img src="icons/allure_report.svg" title="Allure Report" alt="Allure Report" width="50" height="50"/></a>
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/selenide.svg" alt="Selenide" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/marketplace/rest-assured-logo/main/logo.png" alt="REST Assured" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-icon.svg" alt="Postman" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" alt="JUnit5" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/allure.svg" alt="Allure" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="Jira" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" alt="Confluence" width="50" height="50"/>
-</p>
-
-Мои проекты по автоматизации тестирования на Java 🎓

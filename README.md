@@ -7,5 +7,19 @@ QA Engineer с более чем 4-летним опытом тестирова�
 
 Мои инструменты и технологии:
 
-[IntelliJ IDEA] [RestAssured] [Java] [Selenide] [Selenoid] [Android Studio] [Appium inspector] [Allure Report] [Allure TestOps] [Gradle] [Appium] [JUnit5] [GitHub] [Jenkins] [Jira]
+## ⚙ Мои инструменты и технологии
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/selenide.svg" alt="Selenide" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/marketplace/rest-assured-logo/main/logo.png" alt="REST Assured" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-icon.svg" alt="Postman" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" alt="JUnit5" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/allure.svg" alt="Allure" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="Jira" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" alt="Confluence" width="50" height="50"/>
+</p>
+
 Мои проекты по автоматизации тестирования на Java 🎓

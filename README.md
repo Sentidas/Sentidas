@@ -1,6 +1,8 @@
 
 <h1 align="center">Всем привет, я <a href="https://daniilshat.ru/" target="_blank">Елена</a> </h1>
 <h3 align="center">QA Engineer</h3>
+<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=AB75BD&width=435&lines=QA+Automation;Quality+Assurance+Engineer;Mobile+testing;Web+testing;API+testing" alt="Typing SVG" /></a>
+
 
  - Тестирую мобильные приложения, backend-сервисы и API, преимущественно в сфере финтеха
  -  Активно развиваюсь в автоматизации тестирования на Java, создаю автотесты для UI и API

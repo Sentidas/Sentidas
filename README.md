@@ -14,10 +14,10 @@
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
   <a id ="tech" href="https://www.jetbrains.com/idea/"><img src="icons/intellij_idea.svg" width="60" height="60" title="IDEA"  alt="IDEA"/></a>
-<a href="https://selenide.org"><img src="icons/selenide.svg" title="Selenide" alt="Selenide" width="50" height="50"/></a>
+<a href="https://selenide.org"><img src="icons/Selenide.svg" title="Selenide" alt="Selenide" width="50" height="50"/></a>
 </a><a href="https://rest-assured.io"><img src="icons/rest_assured.svg" title="REST Assured" alt="REST Assured" width="50" height="50"/></a>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" title="JUnit5" alt="JUnit5" width="50" height="50"/>&nbsp;
- <a href="https://qameta.io/allure-report"><img src="icons/allure_report.svg" title="Allure Report" alt="Allure Report" width="50" height="50"/></a>
+ <a href="https://qameta.io/allure-report"><img src="icons/Allure.svg" title="Allure Report" alt="Allure Report" width="50" height="50"/></a>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="SQL" alt="SQL" width="50" height="50"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="50" height="50"/>&nbsp;
